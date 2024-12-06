@@ -1,0 +1,5 @@
+format: jb-book
+root: project3
+chapters:
+  - file: project_3
+  
